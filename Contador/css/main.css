@@ -1,0 +1,15 @@
+.btn{
+    width: 80px;
+    height: 80px;
+    
+}
+
+.custom-background {
+    background-color: #3a7b3c; 
+    color: white;
+}
+
+.num{
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
